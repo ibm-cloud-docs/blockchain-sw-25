@@ -24,7 +24,6 @@ IBM Blockchain Platform 2.5
 
 	{: .topicgroup}
 	High availability
-		ibp-console-ha.md
 		howto/ibp-console-ic-ha-howto.md
 		howto/ibp-console-ha-ca.md
 
@@ -96,8 +95,7 @@ IBM Blockchain Platform 2.5
 
 	{: .navgroup id="reference"}
 	[API reference](https://cloud.ibm.com/apidocs/blockchain)
-
-
+        ibp-console-ha.md
 	/blockchain/blockchain-hyperledger-fabric
 	/blockchain/blockchain-k8s-overview
 	reference/metering.md
