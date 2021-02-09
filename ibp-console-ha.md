@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2019, 2020
-lastupdated: "2020-10-30"
+  years: 2019, 2021
+lastupdated: "2021-02-09"
 
 keywords: high availability, HA, failures, zone failure, region failure, component failure, worker node failure, multicloud
 
@@ -20,7 +20,7 @@ subcollection: blockchain-sw-25
 {:term: .term}
 {:pre: .pre}
 
-# High availability (HA)
+# Understanding high availability and disaster recovery for {{site.data.keyword.blockchainfull_notm}}
 {: #ibp-console-ha}
 
 <div style="background-color: #6fdc8c; padding-left: 20px; padding-right: 20px; border-bottom: 4px solid #0f62fe; padding-top: 12px; padding-bottom: 4px; margin-bottom: 16px;">
